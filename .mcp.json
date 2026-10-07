@@ -1,5 +1,8 @@
 {
   "mcpServers": {
-    "bauta": {}
+    "bauta": {
+      "type": "http",
+      "url": "https://bauta.app/mcp"
+    }
   }
 }

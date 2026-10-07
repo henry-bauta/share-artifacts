@@ -1,6 +1,6 @@
 {
   "name": "share-artifacts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Publish and share artifacts as hosted web pages. Deploy HTML, React apps, dashboards, and visualizations to shareable URLs with Bauta.",
   "author": {
     "name": "Bauta"
